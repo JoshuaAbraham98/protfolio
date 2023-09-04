@@ -44,6 +44,8 @@ section{
     border-bottom: .1rem solid rgba(0,0,0,.2);
 }
 .logo{
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Rubik Iso', cursive;
     font-size: 2.5rem;
     color: var(--text-color);
     font-weight: 600;
